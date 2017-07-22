@@ -1,6 +1,6 @@
 # vue-zhihu
 
-> A Vue.js project
+> 使用 `vue-cli` 仿照知乎做的一个web站
 
 ## Build Setup
 
@@ -10,12 +10,4 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+``` 
